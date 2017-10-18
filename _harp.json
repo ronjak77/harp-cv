@@ -1,0 +1,16 @@
+{
+	"globals": {
+		"title": "Portfolio | Ronja Kääriäinen",
+		"decription": "Get to know me",
+
+		"nav_portfolio": "Portfolio",
+		"nav_photoshop": "Photoshop",
+		"nav_illustrations": "Illustrations",
+		"nav_marketing_materials": "Marketing materials",
+		"nav_contact": "Contact",
+		"nav_programming": "Programming",
+
+		"aws":"https://s3-eu-west-1.amazonaws.com/cv-image"
+	}
+
+}

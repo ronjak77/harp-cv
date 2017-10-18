@@ -1,0 +1,8 @@
+{
+ "name": "Harp-CV",
+ "version": "1.0.0",
+ "description": "CV site",
+ "dependencies": {
+   "harp": "*"
+ }
+}

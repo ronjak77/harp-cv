@@ -1,0 +1,31 @@
+doctype
+html
+  head
+  title= title
+  link(rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:400")
+  link(rel="stylesheet" href="/css/normalize.css")
+  link(rel="stylesheet" href="/css/skeleton.css")
+  link(rel="stylesheet" href="/css/before-after.min.css")
+  link(rel="stylesheet" href="/css/featherlight.min.css")
+  link(rel="stylesheet" href="/css/featherlight.gallery.css")
+  link(rel="stylesheet" href="/css/twentytwenty.css")
+  link(rel="stylesheet" href="/css/main.css")
+  link(rel="shortcut icon" href="/favicon.ico")
+  script(src="/js/jquery-3.1.0.min.js")
+  script(src="/js/before-after.min.js")
+  script(src="/js/jquery.event.move.js")
+  script(src="/js/jquery.twentytwenty.js")
+  script(src="/js/featherlight.js")
+  script(src="/js/featherlight.gallery.js")
+  script(src="/js/masonry.pkgd.min.js")
+  script(src="/js/imagesloaded.pkgd.min.js")
+
+  body
+    != partial("_nav")
+      .container
+        if current.path[0] == "fi"
+          != partial("/" + current.path[1],  public.fi._data[current.path[1]])
+        else
+          != yield
+
+    script(src="/js/main.js")

@@ -1,0 +1,8 @@
+.twelve.columns
+	h3
+		span.wide.c9 #{ title_marketing }
+	p #{ p_marketing }
+	.row
+		.grid
+			for image, index in i_marketing
+				img(src= aws + "/marketing/" + image).grid-item&attributes({'data-featherlight': aws + "/marketing/" + image})

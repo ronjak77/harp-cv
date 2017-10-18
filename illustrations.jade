@@ -1,0 +1,17 @@
+.twelve.columns
+	h3
+		span.color-bg #{ title_postcards }
+	p #{ p_postcards }
+	.row
+		.grid
+			for image, index in i_illustrations
+				img(src= aws + "/illustrations/" + image).grid-item&attributes({'data-featherlight': aws + "/illustrations/" + image})
+	h3
+		span.color-bg #{ title_digital_art }
+	p #{ p_digital_art }
+		a(href="http://onceadayproject.tumblr.com")  #{ link }
+
+	.row
+		.grid
+			for image, index in i_digital_art
+				img(src= aws + "/digital_art/" + image).grid-item&attributes({'data-featherlight': aws + "/digital_art/" + image})

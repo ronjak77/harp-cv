@@ -1,0 +1,31 @@
+nav.menu
+  .container
+    .row
+      .five.columns.f-r
+        a(href='/')
+          img.logo(src= aws + "/headerlogo.png")
+      .seven.columns.f-l
+        ul
+          li
+            if current.path[0] == '404'
+              a(href='/') FI
+                img.lang(src= aws + "/fi.png")
+            else if current.path[0] != 'fi'
+              a(href='/fi/' + current.path) FI
+                img.lang(src= aws + "/fi.png")
+            else
+              a(href="/" + current.path[1]) EN
+                img.lang(src= aws + "/en.png")
+          li
+            a #{ nav_portfolio }
+            ul.inner
+              li
+                a(href='photoshop') #{ nav_photoshop }
+              li
+                a(href='illustrations') #{ nav_illustrations }
+              li
+                a(href='marketing') #{ nav_marketing_materials }
+              li
+                a(href='programming') #{ nav_programming }
+          li
+            a(href='contact') #{ nav_contact }
