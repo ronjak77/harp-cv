@@ -44,9 +44,9 @@
         "title_programming": "Programming and web design work",
         "p_programming": "Some of the projects I've done during my free time since the beginning of 2017",
         "title_teosto": "Teosto app",
-        "p_teosto": "A simple app using Teosto open API. The user can find the most played songs of a venue or information on where a certain song has been performed. The goal of the app was to learn basics of Vue.js and Vue Router, and it is not meant to be a finished product due to timing constraints (done under three days).",
+        "p_teosto": "A simple app which displays data fetched from Teosto open API. The user can find the most played songs of a venue or information on where a certain song has been performed. The goal of the app was to learn basics of Vue.js and Vue Router, and it is not meant to be a finished product due to timing constraints (done under three days).",
 
-        "github_teosto": "View source on Github",
+        "github": "View source on Github",
         "github_teosto_link": "https://github.com/ronjak77/teosto-browser",
         "a_teosto": "http://teosto-api.s3-website-eu-west-1.amazonaws.com",
         "a_demo_text": "Demo of the project here",
@@ -55,7 +55,20 @@
         "p_poem": "A poem generator submitted as an entry to Metsä 2020-contest. Interactive bilingual poem editor that allows people create forest-themed poems. One of my personal learning goals for this project was to learn to use Amazon Web Services Simple Storage Service (S3) for uploading user-generated content. Uses Vue.js, fabric.js, express.js",
         "poem_presentation_link": "https://www.emaze.com/@ATTLTTLT/mets-2020",
         "poem_presentation_text": "Slideshow presentation about the poem editor",
-        "a_poem": "http://runogeneraattori.herokuapp.com/"
+        "a_poem": "http://runogeneraattori.herokuapp.com/",
+
+        "title_namedaybot": "Nameday chatbot",
+        "p_namedaybot": "A chatbot on Facebook Messenger which responds to natural Finnish language queries such as \"When is Matti's nameday\" or \"Whose nameday is today / tomorrow / August 9th\". The date parsing is done using Chrono.js and for that to work, the query is first translated to English. The namedays are fetched from a simple (and crude) API I made for this purpose.",
+        "a_namedaybot": "https://www.facebook.com/nimibotti/",
+        "a_namedaybot_demo": "The Facebook page with a live chat",
+        "github_namedaybot_link": "https://github.com/ronjak77/nameday-bot",
+        "github_namedayapi_link": "https://github.com/ronjak77/nameday-api",
+        "github_namedaybot": "View bot source on Github",
+        "github_namedayapi": "View nameday API source on Github",
+
+        "title_cv": "This portfolio site",
+        "p_cv": "This site was done in Sept 2016, and I'd do lots of things differently now. I wanted to try a static site builder, so I used harp.js. Also I got familiar with Pug, which was still called Jade back then. Now I think the biggest issues with this site are with the content management aspects. All text is in _data.json, I'd prefer seperate markdown files for the contents of the page types. Also, I had to work around harp.js as it wasn't meant for bilingual sites.",
+        "github_cv_link": "https://github.com/ronjak77/harp-cv"
     },
 
     "contact": {
