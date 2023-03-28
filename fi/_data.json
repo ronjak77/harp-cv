@@ -1,84 +1,84 @@
 {
-    "index": {
-        "title": "Ronja Kääriäinen",
-        "description": "Verkkosivuja, graafista suunnittelua, kaikkea kivaa",
+	"index": {
+		"title": "Ronja Kääriäinen",
+		"description": "Verkkosivuja, graafista suunnittelua, kaikkea kivaa",
 
-        "title_index": "Kuinka voin auttaa?",
-        "subtitle_index": "Tämä on portfolio / CV -sivuni.",
-        "p_index": "Voit lukea lisää työkokemuksestani ja katsoa esimerkkejä työnäytteistäni. Itse sivustokin on jonkinlainen portfoliokappale, tehty Harp- alustalle, ulkoasun simppelinä frameworkina Skeleton, kuvagallerioissa masonry.js ja featherlight."
-    },
+		"title_index": "Kuinka voin auttaa?",
+		"subtitle_index": "Tämä on portfolio / CV -sivuni.",
+		"p_index": "Voit lukea lisää työkokemuksestani ja katsoa esimerkkejä työnäytteistäni. Itse sivustokin on jonkinlainen portfoliokappale, tehty Harp-alustalle vuonna 2017, ulkoasun simppelinä frameworkina Skeleton, kuvagallerioissa masonry.js ja featherlight."
+	},
 
-    "illustrations": {
-        "title": "Portfolio | Ronja Kääriäinen",
-        "description": "Esimerkkejä graafisesta suunnittelusta",
+	"illustrations": {
+		"title": "Portfolio | Ronja Kääriäinen",
+		"description": "Esimerkkejä graafisesta suunnittelusta",
 
-        "title_postcards": "Postikortit",
-        "p_postcards": "Joitain Minor Postcardsille suunnittelemiani postikortteja.",
-        "title_digital_art": "Tietokonegrafiikkaa",
-        "p_digital_art": "Vapaa-ajan harrastusprojekti.",
-        "link": "Lisää kuvia löytyy täältä."
-    },
+		"title_postcards": "Postikortit",
+		"p_postcards": "Joitain Minor Postcardsille suunnittelemiani postikortteja.",
+		"title_digital_art": "Tietokonegrafiikkaa",
+		"p_digital_art": "Vapaa-ajan harrastusprojekti.",
+		"link": "Lisää kuvia löytyy täältä."
+	},
 
-    "photoshop": {
-        "title": "Portfolio | Ronja Kääriäinen",
-        "description": "Esimerkkikuvia kuvankäsittelytaidoistani",
-        "title_photoshop": "Photoshop- kuvankäsittely",
-        "p_photoshop": "Joitain digitaalisia kuvankäsittelyesimerkkejä."
-    },
+	"photoshop": {
+		"title": "Portfolio | Ronja Kääriäinen",
+		"description": "Esimerkkikuvia kuvankäsittelytaidoistani",
+		"title_photoshop": "Photoshop- kuvankäsittely",
+		"p_photoshop": "Joitain digitaalisia kuvankäsittelyesimerkkejä."
+	},
 
-    "marketing": {
-        "title": "Portfolio | Ronja Kääriäinen",
-        "description": "Esimerkkikuvia markkinointimateriaaleista",
+	"marketing": {
+		"title": "Portfolio | Ronja Kääriäinen",
+		"description": "Esimerkkikuvia markkinointimateriaaleista",
 
-        "title_marketing": "Markkinointimateriaalit",
-        "i_marketing": ["1.png","ads.jpg","material.jpg","material1.jpg","material2.jpg","material3.jpg","sticker1.jpg","sticker2.png","tri1.jpg","tri2.jpg"],
-        "p_marketing": "Esimerkkejä promomateriaaleista, flyereistä, mainoksista ja esitteistä."
-    },
+		"title_marketing": "Markkinointimateriaalit",
+		"i_marketing": ["1.png","ads.jpg","material.jpg","material1.jpg","material2.jpg","material3.jpg","sticker1.jpg","sticker2.png","tri1.jpg","tri2.jpg"],
+		"p_marketing": "Esimerkkejä promomateriaaleista, flyereistä, mainoksista ja esitteistä."
+	},
 
-    "programming": {
-        "title": "Portfolio | Ronja Kääriäinen",
-        "description": "Esimerkkejä ohjelmointiprojekteista",
+	"programming": {
+		"title": "Portfolio | Ronja Kääriäinen",
+		"description": "Esimerkkejä ohjelmointiprojekteista",
 
-        "title_programming": "Ohjelmointinäytteitä ja sovelluksia",
-        "p_programming": "Sekalaisia projekteja vuoden 2017 alusta lähtien.",
-        "title_teosto": "Teosto- sivu",
-        "p_teosto": "Yksinkertainen verkkosovellus, joka näyttää Teoston avoimen rajapinnan kautta haettua tietoa. Käyttäjä voi etsiä livekeikkojen tietoja esiintymispaikkojen perusteella tai esitettyjen kappaleiden nimellä. Esim. Venue search- kohdassa haulla 'musiikkitalo' löytyy tiedot teoksista, jotka on esitetty Helsingin Musiikkitalolla. Tavoitteena sivua tehdessä oli opetella käyttämään Vue.js -sekä Vue Router- tekniikoita, eikä sen ole tarkoituskaan olla täysin viimeistelty toteutus, koska toteutin sen lyhyessä ajassa (kolmen päivän osa-aikainen työpanos).",
-        "github": "Katso lähdekoodi Githubissa",
-        "github_teosto_link": "https://github.com/ronjak77/teosto-browser",
-        "a_teosto": "http://teosto-api.s3-website-eu-west-1.amazonaws.com",
-        "a_demo_text": "Linkki sovelluksen demosivuun",
+		"title_programming": "Ohjelmointinäytteitä ja sovelluksia",
+		"p_programming": "Sekalaisia projekteja vuoden 2017 alusta lähtien.",
+		"title_teosto": "Teosto- sivu",
+		"p_teosto": "Yksinkertainen verkkosovellus, joka näyttää Teoston avoimen rajapinnan kautta haettua tietoa. Käyttäjä voi etsiä livekeikkojen tietoja esiintymispaikkojen perusteella tai esitettyjen kappaleiden nimellä. Esim. Venue search- kohdassa haulla 'musiikkitalo' löytyy tiedot teoksista, jotka on esitetty Helsingin Musiikkitalolla. Tavoitteena sivua tehdessä oli opetella käyttämään Vue.js -sekä Vue Router- tekniikoita, eikä sen ole tarkoituskaan olla täysin viimeistelty toteutus, koska toteutin sen lyhyessä ajassa (kolmen päivän osa-aikainen työpanos).",
+		"github": "Katso lähdekoodi Githubissa",
+		"github_teosto_link": "https://github.com/ronjak77/teosto-browser",
+		"a_teosto": "http://teosto-api.s3-website-eu-west-1.amazonaws.com",
+		"a_demo_text": "Linkki sovelluksen demosivuun",
 
-        "title_poem": "Metsärunogeneraattori",
-        "p_poem": "Runogeneraattori, jolla osallistuin Metsä 2020- sovelluskehityskilpailuun. Selainsovellus, jolla käyttäjä voi tehdä metsäteemaisia runoja. Tavoitteena oli myös opetella Amazon Web Services Simple Storage Service (S3)- tallennustilapalvelua käyttäjien luomien kuvien tallennukseen. Käytetyt teknologiat: Vue.js, fabric.js, express.js",
-        "poem_presentation_link": "https://www.emaze.com/@ATTLTTLT/mets-2020",
-        "poem_presentation_text": "Diaesitys runogeneraattorista",
-        "a_poem": "http://runogeneraattori.herokuapp.com/",
+		"title_poem": "Metsärunogeneraattori",
+		"p_poem": "Runogeneraattori, jolla osallistuin Metsä 2020- sovelluskehityskilpailuun. Selainsovellus, jolla käyttäjä voi tehdä metsäteemaisia runoja. Tavoitteena oli myös opetella Amazon Web Services Simple Storage Service (S3)- tallennustilapalvelua käyttäjien luomien kuvien tallennukseen. Käytetyt teknologiat: Vue.js, fabric.js, express.js",
+		"poem_presentation_link": "https://www.emaze.com/@ATTLTTLT/mets-2020",
+		"poem_presentation_text": "Diaesitys runogeneraattorista",
+		"a_poem": "http://runogeneraattori.herokuapp.com/",
 
-        "title_namedaybot": "Nimipäivä- chatbotti",
-        "p_namedaybot": "Facebook Messengerissä toimiva chatbotti. Botti vastaa suomenkielisiin kyselyihin kuten \"Milloin on Matin nimipäivä\" tai \"Kenen nimipäivä on tänään / huomenna / 5.6 / elokuun toisena \". Syötteestä selvitetään päivämäärät käyttäen Chrono.js-kirjastoa, joka vaatii englanninkielistä tekstiä, joten syöte käännetään automaattisesti Google Translaten avulla. Päivän tai nimen perusteella haetaan tieto tekemästäni yksinkertaisesta (ja kömpelöstä) nimipäiväpalvelusta. Sekä botti että API on hostattu Herokun ilmaisdynossa, joten ensimmäisellä käyttökerralla menee pari sekuntia sen heräämiseen.",
-        "a_namedaybot": "https://www.facebook.com/nimibotti/",
-        "a_namedaybot_demo": "Chatbot livenä Facebook-sivulla",
-        "github_namedaybot_link": "https://github.com/ronjak77/nameday-bot",
-        "github_namedayapi_link": "https://github.com/ronjak77/nameday-api",
-        "github_namedaybot": "Katso botin lähdekoodi Githubissa",
-        "github_namedayapi": "Katso nimipäiväpalvelun lähdekoodi Githubissa",
+		"title_namedaybot": "Nimipäivä- chatbotti",
+		"p_namedaybot": "Facebook Messengerissä toimiva chatbotti. Botti vastaa suomenkielisiin kyselyihin kuten \"Milloin on Matin nimipäivä\" tai \"Kenen nimipäivä on tänään / huomenna / 5.6 / elokuun toisena \". Syötteestä selvitetään päivämäärät käyttäen Chrono.js-kirjastoa, joka vaatii englanninkielistä tekstiä, joten syöte käännetään automaattisesti Google Translaten avulla. Päivän tai nimen perusteella haetaan tieto tekemästäni yksinkertaisesta (ja kömpelöstä) nimipäiväpalvelusta. Sekä botti että API on hostattu Herokun ilmaisdynossa, joten ensimmäisellä käyttökerralla menee pari sekuntia sen heräämiseen.",
+		"a_namedaybot": "https://www.facebook.com/nimibotti/",
+		"a_namedaybot_demo": "Chatbot livenä Facebook-sivulla",
+		"github_namedaybot_link": "https://github.com/ronjak77/nameday-bot",
+		"github_namedayapi_link": "https://github.com/ronjak77/nameday-api",
+		"github_namedaybot": "Katso botin lähdekoodi Githubissa",
+		"github_namedayapi": "Katso nimipäiväpalvelun lähdekoodi Githubissa",
 
-        "title_cv": "Tämä portfolio",
-        "p_cv": "Tein tämän sivuston syyskuussa 2016. Opin pug/Jade -html-esikäsittelijän käyttöä ja staattisten sivujen generoimista node.js'llä. Tekisin monia asioita eri tavalla nykyään. Lähestyisin sisällönhallintaa eri tavalla, nyt tiedot ovat yhdessä .json-tiedostossa, mikä ei ole mielestäni kovin selkeää. Harp.js on mahdollista tehdä kaksikielisiä sivuja, mutta sitä ei ole tarkoitettu siihen.",
-        "github_cv_link": "https://github.com/ronjak77/harp-cv"
-    },
+		"title_cv": "Tämä portfolio",
+		"p_cv": "Tein tämän sivuston syyskuussa 2016. Opin pug/Jade -html-esikäsittelijän käyttöä ja staattisten sivujen generoimista node.js'llä. Tekisin monia asioita eri tavalla nykyään. Lähestyisin sisällönhallintaa eri tavalla, nyt tiedot ovat yhdessä .json-tiedostossa, mikä ei ole mielestäni kovin selkeää. Harp.js on mahdollista tehdä kaksikielisiä sivuja, mutta sitä ei ole tarkoitettu siihen.",
+		"github_cv_link": "https://github.com/ronjak77/harp-cv"
+	},
 
-    "contact": {
-        "title": "Yhteystiedot | Ronja Kääriäinen",
-        "description": "Yhteystietoni ja muuta taustatietoa",
+	"contact": {
+		"title": "Yhteystiedot | Ronja Kääriäinen",
+		"description": "Yhteystietoni ja muuta taustatietoa",
 
-        "header_about": "Tutustutaan lähemmin",
-        "title_about": "Lisää tietoa minusta",
-        "p_about": "Pidän uusien asioiden oppimisesta ja arvostan kaikenlaista kokemusta, jota eri työpaikoissani olen saanut. Olen kiinnostunut laaja-alaisesti monista asioista, ja haluan kokeilla erilaisia työtehtäviä tulevaisuudessakin. Pidän itsenäisestä työskentelystä ja olenkin itseohjautuva, motivoitunut ja haasteisiin hakeutuva persoona.",
-        "title_hobbies": "Harrastukset",
-        "p_hobbies": "Pidän roller derbystä, ruuanlaitosta, lauta- ja tietokonepeleistä, lukemisesta ja kielten opiskelusta. Vapaa-ajallani harrastan myös graafista suunnittelua, jota tekisin mielelläni myös työkseni.",
-        "title_contact": "Ota yhteyttä",
-        "p_email": "ronja.kaariainen at gmail.com",
-        "p_location": "Asun Kuopiossa tällä hetkellä."
-    }
+		"header_about": "Tutustutaan lähemmin",
+		"title_about": "Lisää tietoa minusta",
+		"p_about": "Pidän uusien asioiden oppimisesta ja arvostan kaikenlaista kokemusta, jota eri työpaikoissani olen saanut. Olen kiinnostunut laaja-alaisesti monista asioista, ja haluan kokeilla erilaisia työtehtäviä tulevaisuudessakin. Pidän itsenäisestä työskentelystä ja olenkin itseohjautuva, motivoitunut ja haasteisiin hakeutuva persoona.",
+		"title_hobbies": "Harrastukset",
+		"p_hobbies": "Pidän roller derbystä, ruuanlaitosta, lauta- ja tietokonepeleistä, lukemisesta ja kielten opiskelusta. Vapaa-ajallani harrastan myös graafista suunnittelua, jota tekisin mielelläni myös työkseni.",
+		"title_contact": "Ota yhteyttä",
+		"p_email": "ronja.kaariainen at gmail.com",
+		"p_location": "Asun Kuopiossa tällä hetkellä."
+	}
 }
